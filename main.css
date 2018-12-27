@@ -54,5 +54,5 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   width: auto;
-  height: 400px;
+  height: auto; //400px
 }
